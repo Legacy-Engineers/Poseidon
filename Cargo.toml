@@ -4,4 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+cpal = "0.16.0"
 eframe = { version = "0.32.1", features = ["default"] }
+reqwest = "0.12.23"
+rodio = "0.21.1"
+rss = "2.0.12"
